@@ -1,0 +1,2567 @@
+!SESSION 2023-12-07 14:03:18.842 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.bak_4.log
+Created Time: 2023-12-07 17:44:31.356
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 17:44:31.356
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 17:44:31.907
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 17:55:14.643
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 17:55:15.154
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 17:58:59.238
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 17:58:59.790
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:39:41.237
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:39:41.789
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:44:46.497
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:44:46.999
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:44:47.000
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:45:34.997
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:45:35.498
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:51:32.258
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:51:32.760
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:57:38.636
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 18:57:39.187
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 19:01:40.781
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 19:01:41.332
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.tm4e.ui 4 0 2023-12-07 19:13:43.999
+!MESSAGE Argument not valid
+!STACK 0
+java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:4899)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.custom.StyledText.setStyleRanges(StyledText.java:10161)
+	at org.eclipse.swt.custom.StyledText.replaceStyleRanges(StyledText.java:7729)
+	at org.eclipse.jface.text.TextViewer.addPresentation(TextViewer.java:4777)
+	at org.eclipse.jface.text.TextViewer.changeTextPresentation(TextViewer.java:4854)
+	at org.eclipse.tm4e.ui.text.Colorizer.colorize(Colorizer.java:163)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$TextViewerListener.textChanged(TMPresentationReconciler.java:297)
+	at org.eclipse.jface.text.TextViewer.updateTextListeners(TextViewer.java:2789)
+	at org.eclipse.jface.text.TextViewer.fireRedrawChanged(TextViewer.java:4999)
+	at org.eclipse.jface.text.TextViewer.enabledRedrawing(TextViewer.java:5039)
+	at org.eclipse.jface.text.TextViewer.setRedraw(TextViewer.java:5091)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.catchupWithProjectionAnnotationModel(ProjectionViewer.java:978)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.lambda$0(ProjectionViewer.java:891)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.tm4e.ui 4 0 2023-12-07 19:13:44.004
+!MESSAGE Argument not valid
+!STACK 0
+java.lang.IllegalArgumentException: Argument not valid
+	at org.eclipse.swt.SWT.error(SWT.java:4899)
+	at org.eclipse.swt.SWT.error(SWT.java:4833)
+	at org.eclipse.swt.SWT.error(SWT.java:4804)
+	at org.eclipse.swt.custom.StyledText.setStyleRanges(StyledText.java:10161)
+	at org.eclipse.swt.custom.StyledText.replaceStyleRanges(StyledText.java:7729)
+	at org.eclipse.jface.text.TextViewer.addPresentation(TextViewer.java:4777)
+	at org.eclipse.jface.text.TextViewer.changeTextPresentation(TextViewer.java:4854)
+	at org.eclipse.tm4e.ui.text.Colorizer.colorize(Colorizer.java:163)
+	at org.eclipse.tm4e.ui.text.TMPresentationReconciler$TextViewerListener.textChanged(TMPresentationReconciler.java:297)
+	at org.eclipse.jface.text.TextViewer.updateTextListeners(TextViewer.java:2789)
+	at org.eclipse.jface.text.TextViewer.fireRedrawChanged(TextViewer.java:4999)
+	at org.eclipse.jface.text.TextViewer.enabledRedrawing(TextViewer.java:5039)
+	at org.eclipse.jface.text.TextViewer.setRedraw(TextViewer.java:5091)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.catchupWithProjectionAnnotationModel(ProjectionViewer.java:978)
+	at org.eclipse.jface.text.source.projection.ProjectionViewer.lambda$0(ProjectionViewer.java:891)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 19:13:46.616
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 19:13:47.118
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+!SESSION 2023-12-07 21:02:23.253 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-07 21:02:27.538
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-07 21:02:28.106
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-07 21:02:38.486
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-07 21:02:41.801
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-07 21:02:41.801
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-07 21:02:49.404
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:18:36.920
+!MESSAGE Can't connect to any repository: 
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:20:53.746
+!MESSAGE https://github.com:8005/SonalikaBisoyi/ExpenseCalculator.git: connection failed
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com:8005/SonalikaBisoyi/ExpenseCalculator.git: connection failed
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:192)
+	at org.eclipse.jgit.api.LsRemoteCommand.call(LsRemoteCommand.java:131)
+	at org.eclipse.egit.core.op.ListRemoteOperation.run(ListRemoteOperation.java:116)
+	at org.eclipse.egit.ui.internal.components.AsynchronousListOperation.run(AsynchronousListOperation.java:76)
+	at org.eclipse.egit.ui.internal.dialogs.CancelableFuture$1.run(CancelableFuture.java:280)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com:8005/SonalikaBisoyi/ExpenseCalculator.git: connection failed
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:740)
+	at org.eclipse.jgit.transport.TransportHttp.openFetch(TransportHttp.java:467)
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:170)
+	... 5 more
+Caused by: java.net.ConnectException: Connect to github.com:8005 [github.com/20.207.73.82, github.com/64:ff9b:0:0:0:0:14cf:4952] failed: Connection timed out: no further information github.com
+	at org.eclipse.jgit.util.HttpSupport.response(HttpSupport.java:240)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:665)
+	... 7 more
+
+!ENTRY org.eclipse.egit.core 4 0 2023-12-07 21:21:02.955
+!MESSAGE An exception occurred during push on URI https://github.com:8005/SonalikaBisoyi/ExpenseCalculator.git: https://github.com:8005/SonalikaBisoyi/ExpenseCalculator.git: connection failed
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com:8005/SonalikaBisoyi/ExpenseCalculator.git: connection failed
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:740)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:638)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:542)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1540)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:204)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+Caused by: java.net.ConnectException: Connect to github.com:8005 [github.com/20.207.73.82, github.com/64:ff9b:0:0:0:0:14cf:4952] failed: Connection timed out: no further information github.com
+	at org.eclipse.jgit.util.HttpSupport.response(HttpSupport.java:240)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:665)
+	... 7 more
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:23:33.662
+!MESSAGE https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:192)
+	at org.eclipse.jgit.api.LsRemoteCommand.call(LsRemoteCommand.java:131)
+	at org.eclipse.egit.core.op.ListRemoteOperation.run(ListRemoteOperation.java:116)
+	at org.eclipse.egit.ui.internal.components.AsynchronousListOperation.run(AsynchronousListOperation.java:76)
+	at org.eclipse.egit.ui.internal.dialogs.CancelableFuture$1.run(CancelableFuture.java:280)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:696)
+	at org.eclipse.jgit.transport.TransportHttp.openFetch(TransportHttp.java:467)
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:170)
+	... 5 more
+
+!ENTRY org.eclipse.egit.core 4 0 2023-12-07 21:26:06.447
+!MESSAGE An exception occurred during push on URI https://github.com/SonalikaBisoyi/ExpenseCalculator.git: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:696)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:638)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:542)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1540)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:204)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:28:18.779
+!MESSAGE https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:192)
+	at org.eclipse.jgit.api.LsRemoteCommand.call(LsRemoteCommand.java:131)
+	at org.eclipse.egit.core.op.ListRemoteOperation.run(ListRemoteOperation.java:116)
+	at org.eclipse.egit.ui.internal.components.AsynchronousListOperation.run(AsynchronousListOperation.java:76)
+	at org.eclipse.egit.ui.internal.dialogs.CancelableFuture$1.run(CancelableFuture.java:280)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:696)
+	at org.eclipse.jgit.transport.TransportHttp.openFetch(TransportHttp.java:467)
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:170)
+	... 5 more
+
+!ENTRY org.eclipse.egit.core 4 0 2023-12-07 21:28:41.783
+!MESSAGE An exception occurred during push on URI https://github.com/SonalikaBisoyi/ExpenseCalculator.git: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:696)
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:638)
+	at org.eclipse.jgit.transport.TransportHttp.openPush(TransportHttp.java:542)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:140)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1540)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.ConfirmationPage$2.run(ConfirmationPage.java:204)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:31:28.321
+!MESSAGE https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+!STACK 0
+org.eclipse.jgit.api.errors.TransportException: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:192)
+	at org.eclipse.jgit.api.LsRemoteCommand.call(LsRemoteCommand.java:131)
+	at org.eclipse.egit.core.op.ListRemoteOperation.run(ListRemoteOperation.java:116)
+	at org.eclipse.egit.ui.internal.components.AsynchronousListOperation.run(AsynchronousListOperation.java:76)
+	at org.eclipse.egit.ui.internal.dialogs.CancelableFuture$1.run(CancelableFuture.java:280)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Caused by: org.eclipse.jgit.errors.TransportException: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: not authorized
+	at org.eclipse.jgit.transport.TransportHttp.connect(TransportHttp.java:696)
+	at org.eclipse.jgit.transport.TransportHttp.openFetch(TransportHttp.java:467)
+	at org.eclipse.jgit.api.LsRemoteCommand.execute(LsRemoteCommand.java:170)
+	... 5 more
+
+!ENTRY org.eclipse.core.jobs 4 2 2023-12-07 21:35:30.914
+!MESSAGE An internal error occurred during: "Unstaging files...".
+!STACK 0
+org.eclipse.jgit.errors.DirCacheNameConflictException: ExpenseCalulator ExpenseCalulator/.classpath
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.checkNameConflicts(BaseDirCacheEditor.java:189)
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.replace(BaseDirCacheEditor.java:149)
+	at org.eclipse.jgit.dircache.DirCacheBuilder.finish(DirCacheBuilder.java:193)
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.commit(BaseDirCacheEditor.java:246)
+	at org.eclipse.jgit.dircache.DirCacheBuilder.commit(DirCacheBuilder.java:1)
+	at org.eclipse.jgit.api.ResetCommand.resetIndexForPaths(ResetCommand.java:355)
+	at org.eclipse.jgit.api.ResetCommand.call(ResetCommand.java:149)
+	at org.eclipse.egit.ui.internal.staging.StagingView$60.run(StagingView.java:3974)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2023-12-07 21:35:31.099
+!MESSAGE An internal error occurred during: "Unstaging files...".
+!STACK 0
+org.eclipse.jgit.errors.DirCacheNameConflictException: ExpenseCalulator ExpenseCalulator/.classpath
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.checkNameConflicts(BaseDirCacheEditor.java:189)
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.replace(BaseDirCacheEditor.java:149)
+	at org.eclipse.jgit.dircache.DirCacheBuilder.finish(DirCacheBuilder.java:193)
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.commit(BaseDirCacheEditor.java:246)
+	at org.eclipse.jgit.dircache.DirCacheBuilder.commit(DirCacheBuilder.java:1)
+	at org.eclipse.jgit.api.ResetCommand.resetIndexForPaths(ResetCommand.java:355)
+	at org.eclipse.jgit.api.ResetCommand.call(ResetCommand.java:149)
+	at org.eclipse.egit.ui.internal.staging.StagingView$60.run(StagingView.java:3974)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2023-12-07 21:36:20.133
+!MESSAGE An internal error occurred during: "Unstaging files...".
+!STACK 0
+org.eclipse.jgit.errors.DirCacheNameConflictException: ExpenseCalulator ExpenseCalulator/.classpath
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.checkNameConflicts(BaseDirCacheEditor.java:189)
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.replace(BaseDirCacheEditor.java:149)
+	at org.eclipse.jgit.dircache.DirCacheBuilder.finish(DirCacheBuilder.java:193)
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.commit(BaseDirCacheEditor.java:246)
+	at org.eclipse.jgit.dircache.DirCacheBuilder.commit(DirCacheBuilder.java:1)
+	at org.eclipse.jgit.api.ResetCommand.resetIndexForPaths(ResetCommand.java:355)
+	at org.eclipse.jgit.api.ResetCommand.call(ResetCommand.java:149)
+	at org.eclipse.egit.ui.internal.staging.StagingView$60.run(StagingView.java:3974)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.core.jobs 4 2 2023-12-07 21:36:26.817
+!MESSAGE An internal error occurred during: "Unstaging files...".
+!STACK 0
+org.eclipse.jgit.errors.DirCacheNameConflictException: ExpenseCalulator ExpenseCalulator/.classpath
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.checkNameConflicts(BaseDirCacheEditor.java:189)
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.replace(BaseDirCacheEditor.java:149)
+	at org.eclipse.jgit.dircache.DirCacheBuilder.finish(DirCacheBuilder.java:193)
+	at org.eclipse.jgit.dircache.BaseDirCacheEditor.commit(BaseDirCacheEditor.java:246)
+	at org.eclipse.jgit.dircache.DirCacheBuilder.commit(DirCacheBuilder.java:1)
+	at org.eclipse.jgit.api.ResetCommand.resetIndexForPaths(ResetCommand.java:355)
+	at org.eclipse.jgit.api.ResetCommand.call(ResetCommand.java:149)
+	at org.eclipse.egit.ui.internal.staging.StagingView$60.run(StagingView.java:3974)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:36:45.596
+!MESSAGE Can't connect to any repository: 
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:37:26.822
+!MESSAGE Can't connect to any repository: 
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:38:32.285
+!MESSAGE Can't connect to any repository: 
+
+!ENTRY org.eclipse.egit.core 4 0 2023-12-07 21:45:24.531
+!MESSAGE An exception occurred during push on URI https://github.com/SonalikaBisoyi/ExpenseCalculator.git: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: error occurred during unpacking on the remote end: index-pack failed
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: error occurred during unpacking on the remote end: index-pack failed
+	at org.eclipse.jgit.transport.BasePackPushConnection.readStatusReport(BasePackPushConnection.java:352)
+	at org.eclipse.jgit.transport.BasePackPushConnection.doPush(BasePackPushConnection.java:188)
+	at org.eclipse.jgit.transport.TransportHttp$SmartHttpPushConnection.doPush(TransportHttp.java:1602)
+	at org.eclipse.jgit.transport.BasePackPushConnection.push(BasePackPushConnection.java:137)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:181)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1540)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:45:24.531
+!MESSAGE Can't connect to any repository: https://github.com/SonalikaBisoyi/ExpenseCalculator.git (https://github.com/SonalikaBisoyi/ExpenseCalculator.git: error occurred during unpacking on the remote end: index-pack failed)
+!SESSION 2023-12-07 21:45:42.514 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-07 21:45:45.127
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-07 21:45:45.408
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-07 21:45:49.752
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-07 21:45:51.283
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-07 21:45:51.283
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-07 21:45:54.207
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:46:43.372
+!MESSAGE Error occurred computing Git commit diffs
+!STACK 0
+org.eclipse.jgit.errors.MissingObjectException: Missing unknown 0000000000000000000000000000000000000000
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:136)
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:216)
+	at org.eclipse.jgit.revwalk.RevWalk.parseAny(RevWalk.java:1117)
+	at org.eclipse.jgit.revwalk.RevWalk.parseTree(RevWalk.java:1055)
+	at org.eclipse.jgit.lib.IndexDiff.<init>(IndexDiff.java:292)
+	at org.eclipse.jgit.lib.IndexDiff.diff(IndexDiff.java:608)
+	at org.eclipse.jgit.lib.IndexDiff.diff(IndexDiff.java:412)
+	at org.eclipse.egit.ui.internal.commit.CommitUI.getIndexDiff(CommitUI.java:364)
+	at org.eclipse.egit.ui.internal.actions.CommitActionHandler$2.run(CommitActionHandler.java:152)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.eclipse.egit.core 4 0 2023-12-07 21:50:13.402
+!MESSAGE An exception occurred during push on URI https://github.com/SonalikaBisoyi/ExpenseCalculator.git: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: error occurred during unpacking on the remote end: index-pack failed
+!STACK 0
+org.eclipse.jgit.errors.TransportException: https://github.com/SonalikaBisoyi/ExpenseCalculator.git: error occurred during unpacking on the remote end: index-pack failed
+	at org.eclipse.jgit.transport.BasePackPushConnection.readStatusReport(BasePackPushConnection.java:352)
+	at org.eclipse.jgit.transport.BasePackPushConnection.doPush(BasePackPushConnection.java:188)
+	at org.eclipse.jgit.transport.TransportHttp$SmartHttpPushConnection.doPush(TransportHttp.java:1602)
+	at org.eclipse.jgit.transport.BasePackPushConnection.push(BasePackPushConnection.java:137)
+	at org.eclipse.jgit.transport.PushProcess.execute(PushProcess.java:181)
+	at org.eclipse.jgit.transport.Transport.push(Transport.java:1540)
+	at org.eclipse.egit.core.op.PushOperation.run(PushOperation.java:269)
+	at org.eclipse.egit.ui.internal.push.PushJob.performJob(PushJob.java:86)
+	at org.eclipse.egit.ui.internal.jobs.RepositoryJob.run(RepositoryJob.java:59)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 21:50:13.403
+!MESSAGE Can't connect to any repository: https://github.com/SonalikaBisoyi/ExpenseCalculator.git (https://github.com/SonalikaBisoyi/ExpenseCalculator.git: error occurred during unpacking on the remote end: index-pack failed)
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-12-07 22:01:28.113
+!MESSAGE [Log]	Unable to load library jquery at C:\Users\bisoy\AppData\Local\Temp\eoi3655.tmp\configuration\org.eclipse.osgi\107\data\-1567470291\plugins\org.eclipse.wildwebdeveloper_1.1.1.202308101949\node_modules\vscode-html-languageserver\lib\jquery.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-12-07 22:01:28.114
+!MESSAGE [Log]	Unable to load library lib.es2020.full.d.ts at C:\Users\bisoy\AppData\Local\Temp\eoi3655.tmp\configuration\org.eclipse.osgi\107\data\-1567470291\plugins\org.eclipse.wildwebdeveloper_1.1.1.202308101949\node_modules\typescript\lib\lib.es2020.full.d.ts
+
+!ENTRY org.eclipse.jface 2 0 2023-12-07 22:04:13.736
+!MESSAGE The image could not be loaded: org.eclipse.jface.resource.DeferredImageDescriptor@2769cd84
+!STACK 0
+org.eclipse.jface.resource.DeviceResourceException: Unable to create resource org.eclipse.jface.resource.DeferredImageDescriptor@2769cd84
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:232)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:56)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:92)
+	at org.eclipse.jface.resource.LazyResourceManager.create(LazyResourceManager.java:89)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:192)
+	at org.eclipse.jface.resource.ImageRegistry.get(ImageRegistry.java:206)
+	at org.eclipse.debug.internal.ui.DebugPluginImages.getImage(DebugPluginImages.java:364)
+	at org.eclipse.debug.internal.ui.DefaultLabelProvider.getImage(DefaultLabelProvider.java:90)
+	at org.eclipse.debug.internal.ui.DelegatingModelPresentation.getDefaultImage(DelegatingModelPresentation.java:186)
+	at org.eclipse.debug.internal.ui.DelegatingModelPresentation.getImage(DelegatingModelPresentation.java:144)
+	at org.eclipse.jface.viewers.DecoratingLabelProvider.getImage(DecoratingLabelProvider.java:92)
+	at org.eclipse.jface.viewers.DecoratingLabelProvider.updateLabel(DecoratingLabelProvider.java:351)
+	at org.eclipse.jface.viewers.WrappedViewerLabelProvider.update(WrappedViewerLabelProvider.java:167)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:146)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:988)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:129)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1066)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:428)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2122)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createTreeItem(AbstractTreeViewer.java:876)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:854)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:615)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:802)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalInitializeTree(AbstractTreeViewer.java:1638)
+	at org.eclipse.jface.viewers.TreeViewer.internalInitializeTree(TreeViewer.java:791)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.lambda$1(AbstractTreeViewer.java:1623)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1403)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:366)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1364)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationViewer.preservingSelection(LaunchConfigurationViewer.java:123)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.inputChanged(AbstractTreeViewer.java:1617)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationViewer.inputChanged(LaunchConfigurationViewer.java:170)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1647)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationFilteredTree.doCreateTreeViewer(LaunchConfigurationFilteredTree.java:83)
+	at org.eclipse.ui.dialogs.FilteredTree.createTreeControl(FilteredTree.java:400)
+	at org.eclipse.ui.dialogs.FilteredTree.createControl(FilteredTree.java:373)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationFilteredTree.createControl(LaunchConfigurationFilteredTree.java:98)
+	at org.eclipse.ui.dialogs.FilteredTree.init(FilteredTree.java:331)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationFilteredTree.createViewControl(LaunchConfigurationFilteredTree.java:113)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationView.createViewer(LaunchConfigurationView.java:150)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationView.createLaunchDialogControl(LaunchConfigurationView.java:430)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.createLaunchConfigurationSelectionArea(LaunchConfigurationsDialog.java:552)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.addContent(LaunchConfigurationsDialog.java:299)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.createDialogArea(LaunchConfigurationsDialog.java:481)
+	at org.eclipse.jface.dialogs.TitleAreaDialog.createContents(TitleAreaDialog.java:166)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.createContents(LaunchConfigurationsDialog.java:472)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.create(LaunchConfigurationsDialog.java:378)
+	at org.eclipse.jface.window.Window.open(Window.java:788)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.open(LaunchConfigurationsDialog.java:1239)
+	at org.eclipse.debug.ui.DebugUITools.lambda$1(DebugUITools.java:630)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:636)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:574)
+	at org.eclipse.debug.ui.actions.OpenLaunchDialogAction.run(OpenLaunchDialogAction.java:85)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:778)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1206)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.jface 2 0 2023-12-07 22:04:13.739
+!MESSAGE The image could not be loaded: org.eclipse.jface.resource.DeferredImageDescriptor@aae2f9e
+!STACK 0
+org.eclipse.jface.resource.DeviceResourceException: Unable to create resource org.eclipse.jface.resource.DeferredImageDescriptor@aae2f9e
+	at org.eclipse.jface.resource.ImageDescriptor.createResource(ImageDescriptor.java:232)
+	at org.eclipse.jface.resource.DeviceResourceManager.allocate(DeviceResourceManager.java:56)
+	at org.eclipse.jface.resource.AbstractResourceManager.create(AbstractResourceManager.java:92)
+	at org.eclipse.jface.resource.LazyResourceManager.create(LazyResourceManager.java:89)
+	at org.eclipse.jface.resource.ResourceManager.createImageWithDefault(ResourceManager.java:192)
+	at org.eclipse.jface.resource.ImageRegistry.get(ImageRegistry.java:206)
+	at org.eclipse.debug.internal.ui.DebugPluginImages.getImage(DebugPluginImages.java:364)
+	at org.eclipse.debug.internal.ui.DefaultLabelProvider.getImage(DefaultLabelProvider.java:90)
+	at org.eclipse.debug.internal.ui.DelegatingModelPresentation.getDefaultImage(DelegatingModelPresentation.java:186)
+	at org.eclipse.debug.internal.ui.DelegatingModelPresentation.getImage(DelegatingModelPresentation.java:144)
+	at org.eclipse.jface.viewers.DecoratingLabelProvider.getImage(DecoratingLabelProvider.java:92)
+	at org.eclipse.jface.viewers.DecoratingLabelProvider.updateLabel(DecoratingLabelProvider.java:351)
+	at org.eclipse.jface.viewers.WrappedViewerLabelProvider.update(WrappedViewerLabelProvider.java:167)
+	at org.eclipse.jface.viewers.ViewerColumn.refresh(ViewerColumn.java:146)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:988)
+	at org.eclipse.jface.viewers.AbstractTreeViewer$UpdateItemSafeRunnable.run(AbstractTreeViewer.java:129)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.doUpdateItem(AbstractTreeViewer.java:1066)
+	at org.eclipse.jface.viewers.StructuredViewer$UpdateItemSafeRunnable.run(StructuredViewer.java:428)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:174)
+	at org.eclipse.jface.viewers.StructuredViewer.updateItem(StructuredViewer.java:2122)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createTreeItem(AbstractTreeViewer.java:876)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:854)
+	at org.eclipse.jface.viewers.TreeViewer.createChildren(TreeViewer.java:615)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.createChildren(AbstractTreeViewer.java:802)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.internalInitializeTree(AbstractTreeViewer.java:1638)
+	at org.eclipse.jface.viewers.TreeViewer.internalInitializeTree(TreeViewer.java:791)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.lambda$1(AbstractTreeViewer.java:1623)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1403)
+	at org.eclipse.jface.viewers.TreeViewer.preservingSelection(TreeViewer.java:366)
+	at org.eclipse.jface.viewers.StructuredViewer.preservingSelection(StructuredViewer.java:1364)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationViewer.preservingSelection(LaunchConfigurationViewer.java:123)
+	at org.eclipse.jface.viewers.AbstractTreeViewer.inputChanged(AbstractTreeViewer.java:1617)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationViewer.inputChanged(LaunchConfigurationViewer.java:170)
+	at org.eclipse.jface.viewers.ContentViewer.setInput(ContentViewer.java:282)
+	at org.eclipse.jface.viewers.StructuredViewer.setInput(StructuredViewer.java:1647)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationFilteredTree.doCreateTreeViewer(LaunchConfigurationFilteredTree.java:83)
+	at org.eclipse.ui.dialogs.FilteredTree.createTreeControl(FilteredTree.java:400)
+	at org.eclipse.ui.dialogs.FilteredTree.createControl(FilteredTree.java:373)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationFilteredTree.createControl(LaunchConfigurationFilteredTree.java:98)
+	at org.eclipse.ui.dialogs.FilteredTree.init(FilteredTree.java:331)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationFilteredTree.createViewControl(LaunchConfigurationFilteredTree.java:113)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationView.createViewer(LaunchConfigurationView.java:150)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationView.createLaunchDialogControl(LaunchConfigurationView.java:430)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.createLaunchConfigurationSelectionArea(LaunchConfigurationsDialog.java:552)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.addContent(LaunchConfigurationsDialog.java:299)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.createDialogArea(LaunchConfigurationsDialog.java:481)
+	at org.eclipse.jface.dialogs.TitleAreaDialog.createContents(TitleAreaDialog.java:166)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.createContents(LaunchConfigurationsDialog.java:472)
+	at org.eclipse.jface.window.Window.create(Window.java:431)
+	at org.eclipse.jface.dialogs.Dialog.create(Dialog.java:1094)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.create(LaunchConfigurationsDialog.java:378)
+	at org.eclipse.jface.window.Window.open(Window.java:788)
+	at org.eclipse.debug.internal.ui.launchConfigurations.LaunchConfigurationsDialog.open(LaunchConfigurationsDialog.java:1239)
+	at org.eclipse.debug.ui.DebugUITools.lambda$1(DebugUITools.java:630)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:636)
+	at org.eclipse.debug.ui.DebugUITools.openLaunchConfigurationDialogOnGroup(DebugUITools.java:574)
+	at org.eclipse.debug.ui.actions.OpenLaunchDialogAction.run(OpenLaunchDialogAction.java:85)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1090)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1075)
+	at org.eclipse.swt.widgets.Widget.notifyListeners(Widget.java:778)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$8(ActionContributionItem.java:1206)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2023-12-07 22:17:47.347
+!MESSAGE Several ports (8005, 8088) required by Tomcat v10.1 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+
+!ENTRY org.eclipse.jst.server.tomcat.core 4 0 2023-12-07 22:18:03.752
+!MESSAGE Several ports (8005, 8088) required by Tomcat v10.1 Server at localhost are already in use. The server may already be running in another process, or a system process may be using the port. To start this server you will need to stop the other process or change the port number(s).
+!SESSION 2023-12-07 22:19:45.409 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-07 22:19:47.804
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-07 22:19:48.055
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-07 22:19:56.579
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-07 22:19:57.971
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-07 22:19:57.971
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-07 22:20:02.118
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2023-12-07 22:22:33.653 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-07 22:22:35.362
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-07 22:22:35.645
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-07 22:22:38.498
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-07 22:22:39.817
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-07 22:22:39.817
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-07 22:22:44.156
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 22:25:05.774
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-07 22:25:05.876
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.egit.ui 4 0 2023-12-07 22:32:16.965
+!MESSAGE Error occurred computing Git commit diffs
+!STACK 0
+org.eclipse.jgit.errors.MissingObjectException: Missing unknown 0000000000000000000000000000000000000000
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:136)
+	at org.eclipse.jgit.lib.ObjectReader.open(ObjectReader.java:216)
+	at org.eclipse.jgit.revwalk.RevWalk.parseAny(RevWalk.java:1117)
+	at org.eclipse.jgit.revwalk.RevWalk.parseTree(RevWalk.java:1055)
+	at org.eclipse.jgit.lib.IndexDiff.<init>(IndexDiff.java:292)
+	at org.eclipse.jgit.lib.IndexDiff.diff(IndexDiff.java:608)
+	at org.eclipse.jgit.lib.IndexDiff.diff(IndexDiff.java:412)
+	at org.eclipse.egit.ui.internal.commit.CommitUI.getIndexDiff(CommitUI.java:364)
+	at org.eclipse.egit.ui.internal.actions.CommitActionHandler$2.run(CommitActionHandler.java:152)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+!SESSION 2023-12-08 13:42:12.667 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-08 13:42:16.055
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-08 13:42:16.317
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-08 13:42:21.185
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-08 13:42:23.061
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-08 13:42:23.061
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-08 13:42:27.610
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:19:24.923
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:19:25.434
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:19:25.436
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:20:21.339
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:20:21.841
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-12-08 14:23:05.444
+!MESSAGE [Log]	Unable to load library jquery at C:\Users\bisoy\AppData\Local\Temp\eoi3655.tmp\configuration\org.eclipse.osgi\107\data\-1567470291\plugins\org.eclipse.wildwebdeveloper_1.1.1.202308101949\node_modules\vscode-html-languageserver\lib\jquery.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-12-08 14:23:05.445
+!MESSAGE [Log]	Unable to load library lib.es2020.full.d.ts at C:\Users\bisoy\AppData\Local\Temp\eoi3655.tmp\configuration\org.eclipse.osgi\107\data\-1567470291\plugins\org.eclipse.wildwebdeveloper_1.1.1.202308101949\node_modules\typescript\lib\lib.es2020.full.d.ts
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:23:10.394
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:23:10.896
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:30:22.593
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:30:23.094
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:31:27.420
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:31:27.940
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:40:19.061
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-08 14:40:19.563
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+!SESSION 2023-12-11 21:20:59.870 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-11 21:21:07.064
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-11 21:21:07.801
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-11 21:21:13.297
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-11 21:21:17.161
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-11 21:21:17.161
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-11 21:21:26.676
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:03:09.688
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:03:10.192
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:06:47.885
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:06:48.390
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:10:58.253
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:10:58.755
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:16:51.040
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:16:51.543
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:20:57.852
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:20:58.353
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:21:46.013
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:21:46.519
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:25:31.612
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:25:32.113
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:37:34.683
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:37:35.184
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:40:06.086
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:40:06.587
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:41:26.836
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:41:27.387
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:42:01.300
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:42:01.802
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-12-11 22:55:07.530
+!MESSAGE [Log]	Unable to load library lib.es2020.full.d.ts at C:\Users\bisoy\AppData\Local\Temp\eoi3655.tmp\configuration\org.eclipse.osgi\107\data\-1567470291\plugins\org.eclipse.wildwebdeveloper_1.1.1.202308101949\node_modules\typescript\lib\lib.es2020.full.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-12-11 22:55:07.530
+!MESSAGE [Log]	Unable to load library jquery at C:\Users\bisoy\AppData\Local\Temp\eoi3655.tmp\configuration\org.eclipse.osgi\107\data\-1567470291\plugins\org.eclipse.wildwebdeveloper_1.1.1.202308101949\node_modules\vscode-html-languageserver\lib\jquery.d.ts
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:56:17.627
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 22:56:18.178
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:03:23.466
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:03:23.967
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:10:31.471
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:10:31.974
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:13:27.266
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:13:27.768
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:14:20.029
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:14:20.532
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:14:59.572
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:15:00.074
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:15:22.957
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:15:23.462
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:16:23.923
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:16:24.473
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:17:02.029
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:17:02.530
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:17:14.576
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:17:15.078
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:17:29.863
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:17:30.368
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:17:43.354
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:17:43.868
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:18:14.442
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-11 23:18:14.945
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+!SESSION 2023-12-12 14:36:11.265 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-12 14:36:13.649
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-12 14:36:13.902
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-12 14:36:16.761
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-12 14:36:18.448
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-12 14:36:18.448
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-12 14:36:23.999
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-12 14:40:16.495
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-12 14:40:17.005
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-12-12 14:41:07.593
+!MESSAGE [Log]	Unable to load library lib.es2020.full.d.ts at C:\Users\bisoy\AppData\Local\Temp\eoi3655.tmp\configuration\org.eclipse.osgi\107\data\-1567470291\plugins\org.eclipse.wildwebdeveloper_1.1.1.202308101949\node_modules\typescript\lib\lib.es2020.full.d.ts
+
+!ENTRY org.eclipse.lsp4e 1 0 2023-12-12 14:41:07.593
+!MESSAGE [Log]	Unable to load library jquery at C:\Users\bisoy\AppData\Local\Temp\eoi3655.tmp\configuration\org.eclipse.osgi\107\data\-1567470291\plugins\org.eclipse.wildwebdeveloper_1.1.1.202308101949\node_modules\vscode-html-languageserver\lib\jquery.d.ts
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-12 14:49:03.884
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-12 14:49:04.435
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-12 14:56:49.060
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-12 14:56:49.561
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+!SESSION 2023-12-13 00:02:07.686 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-13 00:02:12.368
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-13 00:02:12.792
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-13 00:02:16.972
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-13 00:02:19.762
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-13 00:02:19.762
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-13 00:02:25.490
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:10:34.842
+!MESSAGE Failed to index /ExpenseCalulator/WebApps/backend.jsp
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:154)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:527)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:10:34.982
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2893)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2911)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2903)
+	at org.eclipse.jdt.internal.core.JavaProject.findType(JavaProject.java:1777)
+	at org.eclipse.jdt.internal.core.JavaProject.findType(JavaProject.java:1678)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.addNameToListIfTypeNotFound(JSPTranslator.java:3228)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.isTypeFound(JSPTranslator.java:3219)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.buildResult(JSPTranslator.java:739)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1286)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:330)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:10:35.050
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:106)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:178)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1047)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1020)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.createCompilationUnit(JSPTranslation.java:461)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.getCompilationUnit(JSPTranslation.java:370)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.setProblemCollectingActive(JSPTranslation.java:525)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:350)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:10:35.112
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:165)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:304)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:290)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:245)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceModuleDescription(PackageFragmentRoot.java:911)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getModuleDescription(PackageFragmentRoot.java:904)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getModuleDescription(JarPackageFragmentRoot.java:306)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:126)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:178)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1047)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1020)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.createCompilationUnit(JSPTranslation.java:461)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.getCompilationUnit(JSPTranslation.java:370)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.setProblemCollectingActive(JSPTranslation.java:525)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:350)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jst.jsp.core 2 2 2023-12-13 01:10:36.707
+!MESSAGE Taglib Index ZipException: C:/Users/bisoy/git/iwt/ExpenseCalulator/WebApps/backend.jsp zip END header not found
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:11:49.796
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:165)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:304)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:290)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:245)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceModuleDescription(PackageFragmentRoot.java:911)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getModuleDescription(PackageFragmentRoot.java:904)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getModuleDescription(JarPackageFragmentRoot.java:306)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.ModuleDependenciesPage.scanModules(ModuleDependenciesPage.java:364)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.ModuleDependenciesPage.init(ModuleDependenciesPage.java:256)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathsBlock.doUpdateUI(BuildPathsBlock.java:405)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.BuildPathsBlock.lambda$0(BuildPathsBlock.java:387)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4047)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3663)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:823)
+	at org.eclipse.jface.window.Window.open(Window.java:799)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.ConfigureBuildPathAction.run(ConfigureBuildPathAction.java:88)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:474)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:580)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:414)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4274)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1066)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4072)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3660)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1155)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1046)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:645)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:342)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:552)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:171)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:136)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:402)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:578)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:651)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:588)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1459)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:11:56.349
+!MESSAGE Failed to index /ExpenseCalulator/WebApps/backend.jsp
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:154)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:527)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:11:56.538
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2893)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2911)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2903)
+	at org.eclipse.jdt.internal.core.JavaProject.findType(JavaProject.java:1777)
+	at org.eclipse.jdt.internal.core.JavaProject.findType(JavaProject.java:1678)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.addNameToListIfTypeNotFound(JSPTranslator.java:3228)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.isTypeFound(JSPTranslator.java:3219)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.buildResult(JSPTranslator.java:739)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1286)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:330)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:11:56.543
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:106)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:178)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1047)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1020)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.createCompilationUnit(JSPTranslation.java:461)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.getCompilationUnit(JSPTranslation.java:370)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.setProblemCollectingActive(JSPTranslation.java:525)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:350)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:11:56.547
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:165)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:304)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:290)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:245)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceModuleDescription(PackageFragmentRoot.java:911)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getModuleDescription(PackageFragmentRoot.java:904)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getModuleDescription(JarPackageFragmentRoot.java:306)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:126)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:178)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1047)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1020)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.createCompilationUnit(JSPTranslation.java:461)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.getCompilationUnit(JSPTranslation.java:370)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.setProblemCollectingActive(JSPTranslation.java:525)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:350)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 01:11:57.081
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 01:11:57.093
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2023-12-13 01:11:57.687
+!MESSAGE Background Indexer Crash Recovery
+!STACK 0
+java.lang.IllegalArgumentException: Document path **path unknown** must be relative to /ExpenseCalulator/WebApps
+	at org.eclipse.wst.jsdt.internal.core.index.Index.containerRelativePath(Index.java:122)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.InternalSearchDocument.getContainerRelativePath(InternalSearchDocument.java:30)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.InternalSearchDocument.removeAllIndexEntries(InternalSearchDocument.java:38)
+	at org.eclipse.wst.jsdt.core.search.SearchDocument.removeAllIndexEntries(SearchDocument.java:132)
+	at org.eclipse.wst.jsdt.internal.core.search.JavaSearchParticipant.indexDocument(JavaSearchParticipant.java:75)
+	at org.eclipse.wst.jsdt.web.core.javascript.search.JsSearchParticipant.indexDocument(JsSearchParticipant.java:82)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.indexDocument(IndexManager.java:325)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager$1.execute(IndexManager.java:728)
+	at org.eclipse.wst.jsdt.internal.core.search.processing.JobManager.run(JobManager.java:393)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 01:11:58.156
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 01:11:58.196
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+!SESSION 2023-12-13 01:13:52.005 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-13 01:13:53.966
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-13 01:13:54.391
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-13 01:14:04.285
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-13 01:14:09.549
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-13 01:14:09.549
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-13 01:14:19.032
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:14:21.373
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2893)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2911)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2903)
+	at org.eclipse.jdt.internal.core.JavaProject.findType(JavaProject.java:1777)
+	at org.eclipse.jdt.internal.core.JavaProject.findType(JavaProject.java:1678)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.addNameToListIfTypeNotFound(JSPTranslator.java:3228)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.isTypeFound(JSPTranslator.java:3219)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.buildResult(JSPTranslator.java:739)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.readExternal(JSPTranslator.java:3478)
+	at java.base/java.io.ObjectInputStream.readExternalData(ObjectInputStream.java:2329)
+	at java.base/java.io.ObjectInputStream.readOrdinaryObject(ObjectInputStream.java:2278)
+	at java.base/java.io.ObjectInputStream.readObject0(ObjectInputStream.java:1760)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:538)
+	at java.base/java.io.ObjectInputStream.readObject(ObjectInputStream.java:496)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslatorPersister.getPersistedTranslator(JSPTranslatorPersister.java:107)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapterFactory.createAdapter(JSPTranslationAdapterFactory.java:47)
+	at org.eclipse.wst.sse.core.internal.provisional.AbstractAdapterFactory.adaptNew(AbstractAdapterFactory.java:122)
+	at org.eclipse.wst.sse.core.internal.provisional.AbstractAdapterFactory.adapt(AbstractAdapterFactory.java:66)
+	at org.eclipse.wst.sse.core.internal.provisional.AbstractNotifier.getAdapterFor(AbstractNotifier.java:95)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:329)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.validateFile(JSPJavaValidator.java:433)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPValidator.validate(JSPValidator.java:175)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.validate(ReconcileStepForValidator.java:252)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.reconcileModel(ReconcileStepForValidator.java:210)
+	at org.eclipse.jface.text.reconciler.AbstractReconcileStep.reconcile(AbstractReconcileStep.java:92)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ValidatorStrategy.reconcile(ValidatorStrategy.java:270)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DocumentRegionProcessor.process(DocumentRegionProcessor.java:323)
+	at org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor.process(StructuredRegionProcessor.java:260)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor$BackgroundThread.run(DirtyRegionProcessor.java:694)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:14:22.294
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:106)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1284)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.reconcileCompilationUnit(JSPTranslation.java:553)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:351)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.validateFile(JSPJavaValidator.java:433)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPValidator.validate(JSPValidator.java:175)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.validate(ReconcileStepForValidator.java:252)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.reconcileModel(ReconcileStepForValidator.java:210)
+	at org.eclipse.jface.text.reconciler.AbstractReconcileStep.reconcile(AbstractReconcileStep.java:92)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ValidatorStrategy.reconcile(ValidatorStrategy.java:270)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DocumentRegionProcessor.process(DocumentRegionProcessor.java:323)
+	at org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor.process(StructuredRegionProcessor.java:260)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor$BackgroundThread.run(DirtyRegionProcessor.java:694)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:14:22.597
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:165)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:304)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:290)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:245)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceModuleDescription(PackageFragmentRoot.java:911)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getModuleDescription(PackageFragmentRoot.java:904)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getModuleDescription(JarPackageFragmentRoot.java:306)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:126)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1284)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.reconcileCompilationUnit(JSPTranslation.java:553)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:351)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.validateFile(JSPJavaValidator.java:433)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPValidator.validate(JSPValidator.java:175)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.validate(ReconcileStepForValidator.java:252)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.reconcileModel(ReconcileStepForValidator.java:210)
+	at org.eclipse.jface.text.reconciler.AbstractReconcileStep.reconcile(AbstractReconcileStep.java:92)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ValidatorStrategy.reconcile(ValidatorStrategy.java:270)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DocumentRegionProcessor.process(DocumentRegionProcessor.java:323)
+	at org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor.process(StructuredRegionProcessor.java:260)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor$BackgroundThread.run(DirtyRegionProcessor.java:694)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:14:23.241
+!MESSAGE Failed to index /ExpenseCalulator/WebApps/backend.jsp
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:154)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:527)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:14:35.566
+!MESSAGE Failed to index /ExpenseCalulator/WebApps/backend.jsp
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:154)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:527)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:15:12.129
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:106)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:348)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:193)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1284)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.reconcileCompilationUnit(JSPTranslation.java:553)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:351)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:15:12.177
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:165)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:304)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:290)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:245)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceModuleDescription(PackageFragmentRoot.java:911)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getModuleDescription(PackageFragmentRoot.java:904)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getModuleDescription(JarPackageFragmentRoot.java:306)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:126)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:348)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:193)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1284)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.reconcileCompilationUnit(JSPTranslation.java:553)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:351)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:351)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:18:54.847
+!MESSAGE Failed to index /ExpenseCalulator/WebApps/backend.jsp
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:154)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:527)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:18:54.921
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2893)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2911)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2903)
+	at org.eclipse.jdt.internal.core.JavaProject.findType(JavaProject.java:1777)
+	at org.eclipse.jdt.internal.core.JavaProject.findType(JavaProject.java:1678)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.addNameToListIfTypeNotFound(JSPTranslator.java:3228)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.isTypeFound(JSPTranslator.java:3219)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.buildResult(JSPTranslator.java:739)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1286)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:330)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValManager$1.visit(ValManager.java:665)
+	at org.eclipse.wst.validation.internal.ValManager.accept(ValManager.java:783)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:669)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:327)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:18:54.928
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:106)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:178)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1047)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1020)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.createCompilationUnit(JSPTranslation.java:461)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.getCompilationUnit(JSPTranslation.java:370)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.setProblemCollectingActive(JSPTranslation.java:525)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:350)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValManager$1.visit(ValManager.java:665)
+	at org.eclipse.wst.validation.internal.ValManager.accept(ValManager.java:783)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:669)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:327)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:18:54.933
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:165)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:304)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:290)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:245)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceModuleDescription(PackageFragmentRoot.java:911)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getModuleDescription(PackageFragmentRoot.java:904)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getModuleDescription(JarPackageFragmentRoot.java:306)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:126)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:178)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.BecomeWorkingCopyOperation.executeOperation(BecomeWorkingCopyOperation.java:43)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1047)
+	at org.eclipse.jdt.internal.core.CompilationUnit.getWorkingCopy(CompilationUnit.java:1020)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.createCompilationUnit(JSPTranslation.java:461)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.getCompilationUnit(JSPTranslation.java:370)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.setProblemCollectingActive(JSPTranslation.java:525)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:350)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.performValidation(JSPBatchValidator.java:355)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validateFile(JSPBatchValidator.java:405)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator$2.run(JSPBatchValidator.java:483)
+	at org.eclipse.jdt.internal.core.BatchOperation.executeOperation(BatchOperation.java:41)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2453)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2478)
+	at org.eclipse.jdt.core.JavaCore.run(JavaCore.java:5965)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPBatchValidator.validate(JSPBatchValidator.java:496)
+	at org.eclipse.wst.validation.Validator$V2.validate(Validator.java:1178)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:704)
+	at org.eclipse.wst.validation.internal.ValManager$1.visit(ValManager.java:665)
+	at org.eclipse.wst.validation.internal.ValManager.accept(ValManager.java:783)
+	at org.eclipse.wst.validation.internal.ValManager.validate(ValManager.java:669)
+	at org.eclipse.wst.validation.internal.ValBuilderJob$Visitor.visit(ValBuilderJob.java:327)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:77)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:87)
+	at org.eclipse.core.internal.events.ResourceDelta.accept(ResourceDelta.java:61)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.deltaBuild(ValBuilderJob.java:211)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.run(ValBuilderJob.java:179)
+	at org.eclipse.wst.validation.internal.ValBuilderJob.runInWorkspace(ValBuilderJob.java:126)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:43)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SESSION 2023-12-13 01:18:59.293 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-13 01:19:03.382
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-13 01:19:03.836
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-13 01:19:38.508
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-13 01:19:40.046
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-13 01:19:40.046
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-13 01:19:44.064
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:19:45.243
+!MESSAGE Failed to index /ExpenseCalulator/WebApps/backend.jsp
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:154)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:527)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:19:46.828
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2893)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2911)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2903)
+	at org.eclipse.jdt.internal.core.JavaProject.findType(JavaProject.java:1777)
+	at org.eclipse.jdt.internal.core.JavaProject.findType(JavaProject.java:1678)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.addNameToListIfTypeNotFound(JSPTranslator.java:3228)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.isTypeFound(JSPTranslator.java:3219)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.buildResult(JSPTranslator.java:739)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslator.translate(JSPTranslator.java:1286)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslationAdapter.getJSPTranslation(JSPTranslationAdapter.java:154)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:330)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.validateFile(JSPJavaValidator.java:433)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPValidator.validate(JSPValidator.java:175)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.validate(ReconcileStepForValidator.java:252)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.reconcileModel(ReconcileStepForValidator.java:210)
+	at org.eclipse.jface.text.reconciler.AbstractReconcileStep.reconcile(AbstractReconcileStep.java:92)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ValidatorStrategy.reconcile(ValidatorStrategy.java:270)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DocumentRegionProcessor.process(DocumentRegionProcessor.java:323)
+	at org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor.process(StructuredRegionProcessor.java:260)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor$BackgroundThread.run(DirtyRegionProcessor.java:694)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:19:47.379
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.initializePackageNames(JavaProjectElementInfo.java:276)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.getProjectCache(JavaProjectElementInfo.java:244)
+	at org.eclipse.jdt.internal.core.JavaProjectElementInfo.newNameLookup(JavaProjectElementInfo.java:314)
+	at org.eclipse.jdt.internal.core.JavaProject.newNameLookup(JavaProject.java:2899)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:106)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1284)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.reconcileCompilationUnit(JSPTranslation.java:553)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:351)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.validateFile(JSPJavaValidator.java:433)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPValidator.validate(JSPValidator.java:175)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.validate(ReconcileStepForValidator.java:252)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.reconcileModel(ReconcileStepForValidator.java:210)
+	at org.eclipse.jface.text.reconciler.AbstractReconcileStep.reconcile(AbstractReconcileStep.java:92)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ValidatorStrategy.reconcile(ValidatorStrategy.java:270)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DocumentRegionProcessor.process(DocumentRegionProcessor.java:323)
+	at org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor.process(StructuredRegionProcessor.java:260)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor$BackgroundThread.run(DirtyRegionProcessor.java:694)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:19:47.514
+!MESSAGE Invalid ZIP archive: WebApps/backend.jsp [in ExpenseCalulator]
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2961)
+	at org.eclipse.jdt.internal.core.JavaModelManager.getZipFile(JavaModelManager.java:2930)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getJar(JarPackageFragmentRoot.java:249)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.computeChildren(JarPackageFragmentRoot.java:129)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.buildStructure(PackageFragmentRoot.java:165)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:304)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:290)
+	at org.eclipse.jdt.internal.core.JavaElement.getChildren(JavaElement.java:245)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getSourceModuleDescription(PackageFragmentRoot.java:911)
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getModuleDescription(PackageFragmentRoot.java:904)
+	at org.eclipse.jdt.internal.core.JarPackageFragmentRoot.getModuleDescription(JarPackageFragmentRoot.java:306)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:126)
+	at org.eclipse.jdt.internal.core.SearchableEnvironment.<init>(SearchableEnvironment.java:146)
+	at org.eclipse.jdt.internal.core.CancelableNameEnvironment.<init>(CancelableNameEnvironment.java:32)
+	at org.eclipse.jdt.internal.core.CompilationUnitProblemFinder.process(CompilationUnitProblemFinder.java:255)
+	at org.eclipse.jdt.internal.core.CompilationUnit.buildStructure(CompilationUnit.java:193)
+	at org.eclipse.jdt.internal.core.Openable.generateInfos(Openable.java:266)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:573)
+	at org.eclipse.jdt.internal.core.CompilationUnit.makeConsistent(CompilationUnit.java:1148)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.makeConsistent(ReconcileWorkingCopyOperation.java:173)
+	at org.eclipse.jdt.internal.core.ReconcileWorkingCopyOperation.executeOperation(ReconcileWorkingCopyOperation.java:94)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.run(JavaModelOperation.java:740)
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:806)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1325)
+	at org.eclipse.jdt.internal.core.CompilationUnit.reconcile(CompilationUnit.java:1284)
+	at org.eclipse.jst.jsp.core.internal.java.JSPTranslation.reconcileCompilationUnit(JSPTranslation.java:553)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.performValidation(JSPJavaValidator.java:351)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPJavaValidator.validateFile(JSPJavaValidator.java:433)
+	at org.eclipse.jst.jsp.core.internal.validation.JSPValidator.validate(JSPValidator.java:175)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.validate(ReconcileStepForValidator.java:252)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ReconcileStepForValidator.reconcileModel(ReconcileStepForValidator.java:210)
+	at org.eclipse.jface.text.reconciler.AbstractReconcileStep.reconcile(AbstractReconcileStep.java:92)
+	at org.eclipse.wst.sse.ui.internal.reconcile.validator.ValidatorStrategy.reconcile(ValidatorStrategy.java:270)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DocumentRegionProcessor.process(DocumentRegionProcessor.java:323)
+	at org.eclipse.wst.sse.ui.internal.reconcile.StructuredRegionProcessor.process(StructuredRegionProcessor.java:260)
+	at org.eclipse.wst.sse.ui.internal.reconcile.DirtyRegionProcessor$BackgroundThread.run(DirtyRegionProcessor.java:694)
+
+!ENTRY org.eclipse.jdt.core 4 4 2023-12-13 01:20:18.571
+!MESSAGE Failed to index /ExpenseCalulator/WebApps/backend.jsp
+!STACK 0
+java.util.zip.ZipException: zip END header not found
+	at java.base/java.util.zip.ZipFile$Source.findEND(ZipFile.java:1483)
+	at java.base/java.util.zip.ZipFile$Source.initCEN(ZipFile.java:1491)
+	at java.base/java.util.zip.ZipFile$Source.<init>(ZipFile.java:1329)
+	at java.base/java.util.zip.ZipFile$Source.get(ZipFile.java:1292)
+	at java.base/java.util.zip.ZipFile$CleanableResource.<init>(ZipFile.java:710)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:243)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:172)
+	at java.base/java.util.zip.ZipFile.<init>(ZipFile.java:186)
+	at org.eclipse.jdt.internal.core.search.indexing.AddJarFileToIndex.execute(AddJarFileToIndex.java:154)
+	at org.eclipse.jdt.internal.core.search.processing.JobManager.indexerLoop(JobManager.java:527)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+!SESSION 2023-12-13 11:43:09.908 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-13 11:43:12.576
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-13 11:43:12.874
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-13 11:43:16.953
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-13 11:43:18.954
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-13 11:43:18.954
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-13 11:43:23.682
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 12:41:16.396
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 12:41:16.900
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2023-12-13 12:41:17.454
+!MESSAGE Background Indexer Crash Recovery
+!STACK 0
+java.lang.IllegalArgumentException: Document path **path unknown** must be relative to /ExpenseCalulator/WebApps
+	at org.eclipse.wst.jsdt.internal.core.index.Index.containerRelativePath(Index.java:122)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.InternalSearchDocument.getContainerRelativePath(InternalSearchDocument.java:30)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.InternalSearchDocument.removeAllIndexEntries(InternalSearchDocument.java:38)
+	at org.eclipse.wst.jsdt.core.search.SearchDocument.removeAllIndexEntries(SearchDocument.java:132)
+	at org.eclipse.wst.jsdt.internal.core.search.JavaSearchParticipant.indexDocument(JavaSearchParticipant.java:75)
+	at org.eclipse.wst.jsdt.web.core.javascript.search.JsSearchParticipant.indexDocument(JsSearchParticipant.java:82)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.indexDocument(IndexManager.java:325)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager$1.execute(IndexManager.java:728)
+	at org.eclipse.wst.jsdt.internal.core.search.processing.JobManager.run(JobManager.java:393)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 12:43:43.410
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 12:43:43.910
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+!SESSION 2023-12-13 21:22:56.511 -----------------------------------------------
+eclipse.buildId=4.29.0.20230907-1200
+java.version=19
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.emf.ecore 2 0 2023-12-13 21:23:02.127
+!MESSAGE Both 'org.eclipse.jst.j2ee.core' and 'org.eclipse.jst.j2ee.core' register a package for 'application.xmi'
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-13 21:23:02.630
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2023-12-13 21:23:14.647
+!MESSAGE Logback config file: C:\Users\bisoy\OneDrive\Desktop\ExpenseManager\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.2.0.20230625-0847.xml
+
+!ENTRY org.eclipse.jface 2 0 2023-12-13 21:23:16.900
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2023-12-13 21:23:16.900
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.jdt.ui.navigate.open.type"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		WorkbenchHandlerServiceHandler("org.eclipse.lsp4e.symbolinworkspace"),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2023-12-13 21:23:23.827
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\bisoy'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 21:32:03.324
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 21:32:03.827
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2023-12-13 21:32:04.381
+!MESSAGE Background Indexer Crash Recovery
+!STACK 0
+java.lang.IllegalArgumentException: Document path **path unknown** must be relative to /ExpenseCalulator/WebApps
+	at org.eclipse.wst.jsdt.internal.core.index.Index.containerRelativePath(Index.java:122)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.InternalSearchDocument.getContainerRelativePath(InternalSearchDocument.java:30)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.InternalSearchDocument.removeAllIndexEntries(InternalSearchDocument.java:38)
+	at org.eclipse.wst.jsdt.core.search.SearchDocument.removeAllIndexEntries(SearchDocument.java:132)
+	at org.eclipse.wst.jsdt.internal.core.search.JavaSearchParticipant.indexDocument(JavaSearchParticipant.java:75)
+	at org.eclipse.wst.jsdt.web.core.javascript.search.JsSearchParticipant.indexDocument(JsSearchParticipant.java:82)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.indexDocument(IndexManager.java:325)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager$1.execute(IndexManager.java:728)
+	at org.eclipse.wst.jsdt.internal.core.search.processing.JobManager.run(JobManager.java:393)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 22:06:13.102
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.sse.core 2 2 2023-12-13 22:06:13.654
+!MESSAGE Detected content type did not match one for which a model handler is registered: org.eclipse.wildwebdeveloper.html vs. org.eclipse.wst.html.core.htmlsource
+
+!ENTRY org.eclipse.wst.jsdt.core 4 4 2023-12-13 22:06:14.209
+!MESSAGE Background Indexer Crash Recovery
+!STACK 0
+java.lang.IllegalArgumentException: Document path **path unknown** must be relative to /ExpenseCalulator/WebApps
+	at org.eclipse.wst.jsdt.internal.core.index.Index.containerRelativePath(Index.java:122)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.InternalSearchDocument.getContainerRelativePath(InternalSearchDocument.java:30)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.InternalSearchDocument.removeAllIndexEntries(InternalSearchDocument.java:38)
+	at org.eclipse.wst.jsdt.core.search.SearchDocument.removeAllIndexEntries(SearchDocument.java:132)
+	at org.eclipse.wst.jsdt.internal.core.search.JavaSearchParticipant.indexDocument(JavaSearchParticipant.java:75)
+	at org.eclipse.wst.jsdt.web.core.javascript.search.JsSearchParticipant.indexDocument(JsSearchParticipant.java:82)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager.indexDocument(IndexManager.java:325)
+	at org.eclipse.wst.jsdt.internal.core.search.indexing.IndexManager$1.execute(IndexManager.java:728)
+	at org.eclipse.wst.jsdt.internal.core.search.processing.JobManager.run(JobManager.java:393)
+	at java.base/java.lang.Thread.run(Thread.java:1589)
